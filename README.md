@@ -1,7 +1,7 @@
 # GameComAdpcmDecoder
 Decodes Tiger Game.Com ADPCM.
 
-You can find a compiled Windows .exe in releases.
+You can find a compiled Windows .exe in [releases](https://github.com/simontime/GameComAdpcmDecoder/releases).
 
 Usage via command line: `Decoder.exe <input audio clip/tgc rom> <output raw file>`
 
