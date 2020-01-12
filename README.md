@@ -1,4 +1,7 @@
 # GameComAdpcmDecoder
+
+***I have implemented this codec in [vgmstream](https://github.com/losnoco/vgmstream), so this repo is obsolete now.***
+
 Decodes Tiger Game.Com ADPCM.
 
 You can find a compiled Windows .exe in [releases](https://github.com/simontime/GameComAdpcmDecoder/releases).
